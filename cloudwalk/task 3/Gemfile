@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+gem 'json'
+gem 'rspec'
+gem 'dotenv'
+gem "rackup", "~> 2.1"
