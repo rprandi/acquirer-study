@@ -1,8 +1,9 @@
 
-# Desafio Cloudwalk
 
-Para entender sobre o mundo de adquirencia (task 1), vá para [README.md](task 1/README.md)
+Para entender sobre o mundo de adquirencia, vá para a pasta task 1
 
-Para ver a analise de dados encima do csv (task 2), vá para [README.md](task 2/README.md)
+Para ver a analise de dados encima do csv vá para pasta task 2
 
-Para ver o desafio tecnico e o endpoint de transacoe (task 3), vá para [README.md](task 3/README.md)
+Para ver o desafio tecnico e o endpoint de transações vá para pasta task 3
+
+Todas possuem README
